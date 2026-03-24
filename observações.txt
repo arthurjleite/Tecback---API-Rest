@@ -1,0 +1,48 @@
+Observações atividade BACK-END II:
+
+-FuncionarioService está básico (comparar com FilmeService)
+
+
+Swagger: http://localhost:8080/swagger-ui/index.html
+
+H2 (banco): http://localhost:8080/h2
+
+---------------------------------------------------------------
+
+*Classes criadas:
+
+Funcionario.java 
+(Entity - representa a tabela no banco)
+
+FuncionarioController.java 
+(Controlador - recebe requisições HTTP e retorna respostas)
+
+FuncionarioService.java 
+(Regra de negócio - processa dados antes de acessar o banco)
+
+FuncionarioRepository.java 
+(Acesso ao banco - faz CRUD com o banco de dados)
+
+FuncionarioDTO.java 
+(Objeto de transferência - dados enviados/recebidos pela API)
+
+FuncionarioMapper.java 
+(Conversão - transforma DTO ↔ Entity)
+
+FuncionarioServiceTest.java 
+(Testa regras de negócio com mocks)
+
+FuncionarioControllerTest.java 
+(Testa endpoints HTTP da API)
+
+FuncionarioRepositoryTest.java 
+(Testa integração com o banco de dados)
+
+
+@RestController → define classe como API REST
+@Service → define lógica de negócio
+@Repository → acesso ao banco
+@Entity → mapeia tabela
+@Id + @GeneratedValue → ID automático
+@Valid → validação
+ResponseEntity → resposta HTTP
