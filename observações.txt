@@ -46,3 +46,13 @@ FuncionarioRepositoryTest.java
 @Id + @GeneratedValue → ID automático
 @Valid → validação
 ResponseEntity → resposta HTTP
+
+ORDEM DE CRIAÇÃO DAS CAMADAS (para cada entidade):
+
+-Model
+-DTO
+-Mapper
+-Repository
+-Service
+-Controller
+-Testes
