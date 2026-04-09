@@ -4,7 +4,7 @@
 |--------------------------------|
 | Arthur Benevides Jerônimo Leite |
 | Mateus Cavalcante de Lima      |
-| Rômulo Freitas                 |
+| Rômulo Frade                 |
 | José Neto Vasconcelos          |
 | Matheus Webster                |
 
