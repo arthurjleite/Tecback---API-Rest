@@ -1,10 +1,13 @@
 # Integrantes do Projeto
 
-| Nome Completo                   |
-|---------------------------------|
+| Nome Completo                  |
+|--------------------------------|
 | Arthur Benevides Jerônimo Leite |
-| Mateus Cavalcante de Lima       |
-| Rômulo Freitas                  |
-| José Neto Vasconcelos           |
+| Mateus Cavalcante de Lima      |
+| Rômulo Freitas                 |
+| José Neto Vasconcelos          |
+| Matheus Webster                |
+
+
 
 
